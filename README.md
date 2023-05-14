@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Nikhil!
+
+I'm a Full Stack MERN and FARM Stack developer.
+
+I'm currenlty learning Kubernetes
+
+I have N4 Japanese language proficiency, currenlty studying for JLPT N3
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/nikhilbk9148/) and my portfolio website is [here](https://mern-frontend-portfolio-nikhil-bk.vercel.app/)
+
 <!--
 **nikhil-bk/nikhil-bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
