@@ -8,7 +8,7 @@ I'm currenlty learning Kubernetes
 
 I have N4 Japanese language proficiency, currenlty studying for JLPT N3
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/nikhilbk9148/) and my portfolio website is [here](https://mern-frontend-portfolio-nikhil-bk.vercel.app/)
+You can also find me on [LinkedIn](https://www.linkedin.com/in/nikhilbk9148/) and my portfolio website is [here](https://portfolio-nikhil-bk.com/)
 
 <!--
 **nikhil-bk/nikhil-bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
