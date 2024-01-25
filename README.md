@@ -58,16 +58,16 @@ Results-driven Full Stack Web Developer with a passion for crafting seamless web
 
 ## 🎖️ Certifications
 
-| **Certification** | **Issuer** | **Date** | **Icon** |
-| ------------------ | ---------- | -------- | -------- |
-| Next.js 13.4 Full Stack Bootcamp | JSMasteryPro | Nov 2023 | ![JSMasteryPro](icons/jsmasterypro.png) |
-| AWS Serverless Developer | AWS Quest | Aug 2023 | ![AWS Quest]([icons/aws-quest.png](https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/640/aws-512.png)) |
-| AWS Cloud Practitioner | AWS Quest | Jul 2023 | ![AWS Quest](icons/aws-quest.png) |
-| AWS Cloud Networking | AWS Quest | Jun 2023 | ![AWS Quest](icons/aws-quest.png) |
-| MERN Full Stack Web Development | LinkedIn | Apr 2023 | ![LinkedIn](icons/linkedin.png) |
-| HackerRank Node JS Certification | HackerRank | Jul 2022 | ![HackerRank](icons/hackerrank.png) |
-| MongoDB Aggregation | MongoDBUniversity.com | Apr 2022 | ![MongoDB University](icons/mongodb.png) |
-| Full Stack Web Development Bootcamp | Udemy | Jan 2021 | ![Udemy](icons/udemy.png) |
+| **Certification** | **Issuer** | **Date** | 
+| ------------------ | ---------- | -------- |
+| Next.js 13.4 Full Stack Bootcamp | JSMasteryPro | Nov 2023 | 
+| AWS Serverless Developer | AWS Quest | Aug 2023 | 
+| AWS Cloud Practitioner | AWS Quest | Jul 2023 | 
+| AWS Cloud Networking | AWS Quest | Jun 2023 |
+| MERN Full Stack Web Development | LinkedIn | Apr 2023 |
+| HackerRank Node JS Certification | HackerRank | Jul 2022 | 
+| MongoDB Aggregation | MongoDBUniversity.com | Apr 2022 |
+| Full Stack Web Development Bootcamp | Udemy | Jan 2021 | 
 
 ---
 
