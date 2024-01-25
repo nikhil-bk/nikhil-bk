@@ -45,21 +45,13 @@ Results-driven Full Stack Web Developer with a passion for crafting seamless web
 
 ## 🛠️ Skills
 
-### Languages
-- HTML, CSS, JavaScript, TypeScript, Python
-
-### Frontend Technologies
-- React.js, Next.js, Redux, Material UI, Bootstrap, Tailwind CSS, Shadcn
-
-### Backend Technologies
-- Node.js, Flask API, Fast API, Express.js, Kubernetes, Docker
-
-### Database
-- MongoDB, NoSQL, SQL, Redis
-
-### Cloud Services
-- AWS (EC2, S3, VPC, IAM, API Gateway, Lambda Function, Amplify, ECR)
-- Textract, Comprehend
+| **Category**   | **Technologies**                                         |
+| --------------- | -------------------------------------------------------- |
+| **Languages**   | HTML, CSS, JavaScript, TypeScript, Python                 |
+| **Frontend**    | React.js, Next.js, Redux, Material UI, Bootstrap, Tailwind CSS, Shadcn |
+| **Backend**     | Node.js, Flask API, Fast API, Express.js, Kubernetes, Docker |
+| **Cloud**       | AWS (EC2, S3, VPC, IAM, API Gateway, Lambda Function, Amplify, ECR) ![AWS](icons/aws.png), Textract, Comprehend |
+| **Database**    | MongoDB, NoSQL, SQL, Redis      
 
 ---
 
