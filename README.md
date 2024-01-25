@@ -4,10 +4,11 @@
 
 I'm Nikhil BK, a Full Stack Web Developer based in Tumakuru, Karnataka, India. Welcome to my GitHub profile!
 
-### 📧 Contact
 - 📧 Email: nikhilbk9148@gmail.com
 - 📱 LinkedIn: [linkedin.com/in/nikhilbk9148](https://www.linkedin.com/in/nikhilbk9148/)
+- 🌐 Portfolio: [portfolio.nikhil-bk.com](https://portfolio.nikhil-bk.com/)
 - 📞 Phone: +91 91484 94071
+
 
 ---
 
@@ -48,10 +49,10 @@ Results-driven Full Stack Web Developer with a passion for crafting seamless web
 | **Category**   | **Technologies**                                         |
 | --------------- | -------------------------------------------------------- |
 | **Languages**   | 💻 HTML, CSS, JavaScript, TypeScript, Python              |
-| **Frontend**    | 🌐 [React.js](https://reactjs.org/) ![React.js](icons/react.png), [Next.js](https://nextjs.org/) ![Next.js](icons/nextjs.png), Redux, Material UI, [Bootstrap](https://getbootstrap.com/) ![Bootstrap](icons/bootstrap.png), Tailwind CSS, Shadcn |
+| **Frontend**    | 🌐 React.js, Next.js, Redux, Material UI, Bootstrap, Tailwind CSS, Shadcn |
 | **Backend**     | 🚀 Node.js, Flask API, Fast API, Express.js, Kubernetes, Docker |
 | **Cloud**       | ☁️ AWS (EC2, S3, VPC, IAM, API Gateway, Lambda Function, Amplify, ECR), Textract, Comprehend |
-| **Database**    | 📊 MongoDB, NoSQL, SQL, Redis    
+| **Database**    | 📊 MongoDB, NoSQL, SQL, Redis                
 
 ---
 
